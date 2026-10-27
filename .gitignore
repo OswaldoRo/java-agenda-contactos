@@ -1,0 +1,7 @@
+# Archivos de compilación de Java
+*.class
+# Carpetas de compilación o IDEs
+out/
+target/
+.idea/
+*.iml
